@@ -1,0 +1,1 @@
+../gromacs/collen.sh
